@@ -1,3 +1,3 @@
 # Go-Examples
 Code samples in Go.
-Code exercises from https://tour.golang.org
+Code exercises from [tour.golang.org]
